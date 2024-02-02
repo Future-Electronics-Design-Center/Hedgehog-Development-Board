@@ -3,7 +3,7 @@ Future Electronics [Hedgehog Development Board](https://github.com/Future-Electr
 
 ## Reference Designs
 
-[Hedgehog "Blinky" SoC](https://github.com/Future-Electronics-Design-Center/blinky_soc) - Lattice Propel-based LED blinky design using soft RISC-V MCU
+[Hedgehog "Blinky" SoC](https://github.com/Future-Electronics-Design-Center/hedgehog-blinky_soc) - Lattice Propel-based LED blinky design using soft RISC-V MCU
 
 <img src="images/hedgehog.png" width="100">
 
