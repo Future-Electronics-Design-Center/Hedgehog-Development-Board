@@ -2,6 +2,7 @@
 Future Electronics [Hedgehog Development Board](https://github.com/Future-Electronics-Design-Center/Hedgehog) featuring the Lattice MachXO5-NX FPGA.
 
 [Data Brief](collateral/Hedgehog_DataBrief_v03.pdf)
+
 [Schematics](collateral/SCH_Hedgehog_Rev0.PDF)
 
 ## Reference Designs
